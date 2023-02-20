@@ -1,0 +1,17 @@
+{
+  "name": "last-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.272.0",
+    "@aws-sdk/lib-dynamodb": "^3.272.0",
+    "dayjs": "^1.11.7"
+  }
+}
